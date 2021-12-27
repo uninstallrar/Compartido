@@ -1,0 +1,46 @@
+
+
+
+.caja { background-color: rgb(248, 123, 148);
+margin-top: 50px;
+margin-right: 70px;
+margin-left: 30px;
+margin-bottom: 5px;
+padding: 50px;
+}
+
+.em{ font-size: 2em;}
+body{ background-color:rgb(245, 216, 243);}
+
+.cabeza1 { background-color: rgba(238, 40, 238, 0.959);
+  height: 100px; width: 80%;
+}
+
+nav ul li {
+ text-align: center;}
+
+.textodeindice{background-color: black;width: 80%; 
+  height: 30px;
+   color: white; text-align: center;
+  margin-left: 50px; }
+
+
+#container { background-color: rgb(248, 252, 4);}
+
+aside { float:left; 
+width: 20%;}
+
+.clase1 { background-color: rgb(5, 5, 0);
+  width: 50 px
+  height= 30px
+
+}
+
+.article2{--color-primario:rgb(255, 94, 0);
+background-color: var(--color-primario);}
+
+.hache2 {font-family: monospace;}
+
+.caja{ margin: 100px
+width= 100%;
+max-height: 300px;}
